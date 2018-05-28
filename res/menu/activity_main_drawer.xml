@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/menuusuario">
+        <menu>
+            <item
+                android:id="@+id/registro"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/registro" />
+            <item
+                android:id="@+id/identificacion"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/login" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@android:drawable/ic_partial_secure"
+                android:title="@string/logout" />
+            <item
+                android:id="@+id/baja"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/baja" />
+        </menu>
+    </item>
+
+    <item android:title="@string/buscador">
+        <menu>
+            <item
+                android:id="@+id/buscador"
+                android:icon="@android:drawable/ic_search_category_default"
+                android:title="@string/buscar_socios_proyecto" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menuinfo">
+    <menu>
+        <item
+            android:id="@+id/acerca"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="@string/acerca" />
+        <item
+            android:id="@+id/socios"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="@string/socios_en_el_proyecto" />
+        <item
+            android:id="@+id/enlaces"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/enlaces" />
+        <item
+            android:id="@+id/disclaimer"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/disclaimer" />
+        <item
+            android:id="@+id/manual"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/manual" />
+        <item
+            android:id="@+id/salir"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/salir" />
+    </menu>
+    </item>
+
+
+</menu>

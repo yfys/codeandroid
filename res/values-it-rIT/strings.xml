@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">YFYS. Erasmus +</string>
+
+    <string name="navigation_drawer_open">Apri il cassetto della navigazione</string>
+    <string name="navigation_drawer_close">Chiudi il cassetto della navigazione</string>
+
+
+    <string name="action_settings">Impostazioni</string>
+    <string name="erasmus">Erasmus+</string>
+    <string name="subtitulo">Your future in your Smartphone</string>
+
+
+    <string name="buscar_socios_proyecto">"Cerca membri / progetto"</string>
+
+
+    <string name="botonforgotpassword">Fai clic qui per recuperare la password</string>
+    <string name="bajarealizada">Annulla iscrizione terminata </string>
+
+    <string name="RecuperoPassword">Scrivi la tua email</string>
+
+    <string name="enviarEmail"> Email </string>
+    <!--- Opciones de menu -->
+    <string name="baja">Annulla iscrizione</string>
+    <string name="acerca">Sul Progetto</string>
+    <string name="socios_en_el_proyecto">Partner nel progetto</string>
+    <string name="enlaces">Siti Amici</string>
+    <string name="login">Autenticazione</string>
+    <string name="logout">Disconnetti</string>
+    <string name="registro">Registro</string>
+
+    <string name="buscador">Cercare</string>
+    <string name="menuusuario">Utente</string>
+    <string name = "menuinfo"> Informazioni </string>
+    <string name = "disclaimer"> Disconnettiti</string>
+    <string name = "manual"> Manuale </string>
+    <string name="salir">Uscita</string>
+
+    <!--- La finestra di dialogo DEVE ESEGUIRE LOGIN -->
+    <string name = "titulodebelogin"> Informazioni </string>
+    <string name = "textodialogodebelogin"> Devi effettuare il login per cercare. </string>
+
+    <!--- Dialog OK -->
+    <string name = "titulologin"> Cerca </string>
+    <string name = "textodialogologin"> Attendi il caricamento dei dati per eseguire il filtraggio dei dati. </string>
+
+
+
+    <!--- Finestra PIC -->
+    <string name = "tituloPIC"> Informazioni PIC </string>
+    <string name = "textodialogoPIC"> I dati PIC saranno necessari per realizzare un progetto europeo. Se non ce hai, devi compilare questo campo con 000 </string>
+
+
+    <!--- Finestra di dialogo NON-DATI -->
+    <string name = "titulodialogosindatos"> NESSUN RISULTATO </string>
+    <string name = "textodialogosinddatos"> Questa combinazione non ha risultati. Premere indietro e modificare i criteri </string>
+
+
+    <!--- Finestra di dialogo PASSWORD OK -->
+    <string name = "titlePasswordok"> Informazioni sulla password </string>
+    <string name = "textodialogoPasswordok"> Controlla la tua email. A volte dovresti controllare la cartella SPAM </string>
+
+    <!--- Dialog EMAIL OK -->
+    <string name = "tituloeemaildok"> E_mail Spedita </string>
+    <string name = "textodialogoemailok"> Abbiamo inviato un email. Vi auguriamo buona fortuna </string>
+
+
+    <!--- Finestra di dialogo PASSWORD EMAIL O NON CONFIRM -->
+    <string name = "titlePasswordfail"> Informazioni password </string>
+    <string name = "textodialogoPasswordfail"> Email non è registrata. Devi confermare la registrazione. </string>
+
+
+    <!--- Dialog OK -->
+    <string name = "titulodialogo"> Fine della registrazione </string>
+    <string name = "textodialogo"> Controlla la tua email e quella della tua istituzione per completare la registrazione. In alcuni casi è necessario controllare la cartella Spam </string>
+
+    <string name = "PersonName"> Nome persona di contatto: </string>
+
+
+    <!--- LOW Dialog -->
+    <string name = "titleBaja"> Care </string>
+    <string name = "textodialogoBaja"> Se continui ad eliminare i tuoi dati, sei sicuro? </string>
+
+
+    <!--- Dialog OK -->
+    <string name = "titulologout"> LOGOUT </string>
+    <string name = "textodialogologout"> Hai lasciato il sistema. </string>
+
+
+    <!-- La finestra di dialogo DEVE ESSERE FUORI -->
+    <string name = "titulodebenologin"> DEVI USCIRE </string>
+    <string name = "textodialogodebenologin"> È necessario uscire dall account corrente per accedere. </string>
+
+
+    <!--- La finestra di dialogo DEVE ESSERE BASSA -->
+    <string name = "titulodebebaja"> Informazioni </string>
+    <string name = "textodialogodebebaja"> Devi effettuare il login per annullare l iscrizione. </string>
+
+
+    <!-- La finestra di dialogo DEVE ESSERE FUORI -->
+    <string name = "titulodebelogin2"> ATTENZIONE </string>
+    <string name = "textodialogodebelogin2"> Devi effettuare il login. </string>
+
+    <!-- La finestra di dialogo DEVE ESSERE FUORI 2 -->
+    <string name = "titulodebenologin2"> DEVI LASCIARE </string>
+    <string name = "textodialogodebenologin2"> Devi lasciare l account corrente per registrarti. </string>
+
+
+    <!--- Registro -->
+    <string name="DatosInstitucion">Istituzione</string>
+    <string name="Nombre">Nome </string>
+    <string name="cabecera_socios">Partner nel progetto</string>
+    <string name="cabecera_enlaces">Links</string>
+    <string name="email">email</string>
+    <string name="botonEnlace1"> sito web</string>
+    <string name="botonEnlace2">  Disseminazione del progetto  </string>
+    <string name="buscar">Cerca</string>
+    <string name="botonLogin">Accedi</string>
+    <string name="pass">Password</string>
+    <string name="user">User</string>
+
+    <string name="cabeceraLogin">Login</string>
+    <string name="cabeceraRegistro">Registrazione</string>
+    <string name="apellidos">Cognome</string>
+    <string name="repetirPass">Ripeti password</string>
+    <string name="botonRegistro">Register</string>
+    <string name="tipoProyecto">Tipo</string>
+    <string name="email_institucion">Istituzione posta elettronica</string>
+    <string name="area">Area</string>
+    <string name="nombreProyecto">Nome</string>
+    <string name="tipo">Tipo del progetto</string>
+    <string name="pais">Paese:</string>
+    <string name="calle">Via:</string>
+    <string name="ciudad">Città:</string>
+    <string name="botonRegistroInstitucion">Registrar</string>
+    <string name="nombre_del_centro">Nome del centro:</string>
+    <string name="tipo_de_centro">Tipo de centro</string>
+    <string name="Acepta">Accetti le  </string>
+    <string name="Condiciones">Condizioni </string>
+    <string name="PIC">PIC </string>
+    <!--- Disclaimer -->
+    <string name="disclaimer1">Co-finanziato dal programma Erasmus + dell Unione europea</string>
+    <string name="disclaimer2">Il presente progetto è finanziato con il sostegno della Commissione europea.
+    L’autore è il solo responsabile di questa pubblicazione (comunicazione) e la Commissione declina ogni responsabilità sull’uso che potrà essere
+    fatto delle informazioni in essa contenute</string>
+
+
+    <string name="compartiremail">Fai clic per condividere la tua email</string>
+    <string name="textobaja">Premendo il pulsante successivo si procederà all eliminazione dei dati dal sistema. Devi registrarti di nuovo.</string>
+    <string name="botonbaja">BAJA</string>
+
+    <!--- Errori -->
+    
+    <string name = "errordatosvacios"> I dati non possono essere vuoti.  </string>
+    <string name = "errorpassword"> Password non corrisponde.  </string>
+    <string name = "errordatosemail"> email non corretta o vuota </string>
+    <string name = "erroracepta"> Devi accettare  </string>
+    <string name = "errorinserccion"> Errore di inserimento  </string>
+    <string name = "todook"> Controlla la tua email e le-mail dell istituto per confermare la registrazione  </string>
+
+    <string name = "todookemail"> Email inviata </string>
+
+    <!--- Altri messaggi -->
+    <string name = "Mensajeescribe"> Scrivi il tuo messaggio. Premi sopra per condividere la tua e-mail se vuoi condividerla, il sistema non la condividerà  </string>
+    <!--- MESSAGGI TASTICI -->
+
+    <string name = "identificacion">  Identificato come</string>
+    <string name = "validacion"> Devi convalidare il tuo username via email per accedere al tuo account  </string>
+    <string name = "validaciondatos"> Inserisci email e password validi  </string>
+    <string name = "validacionemail"> Inserisci email valida  </string>
+    <string name = "errorconexion"> Errore di connessione al database, controlla la tua connessione internet  </string>
+    <string name = "validacioncampos"> Inserisci tutti i campi  </string>
+
+    <!--- Testi lunghi -->
+    <string name = "textoAcercaParrafo1"> L idea. Oggi, tutti abbiamo uno smartphone (smart phone) in tasca. L obiettivo principale del progetto è lo sviluppo di una applicazione software che utilizzi licenze di software libero per la ricerca di partner sui diversi progetti europei.
+
+          </string>
+    <string name = "textoAcercaCabecera2"> Il progetto mira a:
+    </string>
+    <string name = "textoAcercaobjetivoa"> A) Condividere buone pratiche tra i partner nel campo del software libero; </string>
+    <string name = "textoAcercaobjetivob"> B) di promuovere e coordinare tutto il lavoro coinvolti centri educativi appartenenti a diversi contesti culturali, linguistiche e socio-economiche, ecc ;. </string>
+    <string name = "textoAcercaobjetivoc"> C) Sviluppare strategie per integrare le conoscenze acquisite nel curriculum di ogni scuola;
+ </string>
+    <string name = "textoAcercaobjetivod"> D) Coinvolgere gli studenti nel progetto; </string>
+    <string name = "textoAcercaobjetivoe"> E) Pianificazione e sviluppo di un sito Web e un applicazione mobile Android che implementa gli obiettivi stabiliti per il progetto;
+ </string>
+    <string name = "textoAcercaobjetivof"> F) Utilizzo di strumenti per la diffusione delle attività; </string>
+    <string name = "textoAcercaobjetivog"> G) Monitorare l avanzamento del progetto; </string>
+    <string name = "textoAcercaobjetivoi"> I) Valutare la possibilità di estendere il progetto ad altre lingue; </string>
+
+
+
+
+    <string name = "textoAcercaCabecera3"> Risorse prodotte dai partner che permetteranno: </string>
+    <string name = "textoAcercaParrafo3">Sviluppo di un sito Web, nonché un applicazione Android, basata sulle buone pratiche concordate dai partner che consente la registrazione delle istituzioni e la ricerca di partner di diversi progetti, Ricerca di partner europei
+        , Comunicazione tra i partner per stabilire / costruire il progetto.
+      </string>
+
+
+    <string name = "visitlink"> Visita il suo sito Web </string>
+
+    <string name = "textoSociosParrafo1"> IES Cristobal de Monroy. Coordinatore. Alcalá de Guadaíra (Siviglia) Spagna. Istituto didattico (ESO, Baccalaureate e Vocational Training of Computing and Commerce) Ha la lettera ECHE e partecipa attualmente ai progetti Erasmus + KA1 e KA2.
+   </string>
+
+    <string name = "textoSociosParrafo2"> FICA. Partner. La Federazione degli industriali e dei commercianti di Alcalá de Guadaira (Siviglia) La Spagna è una organizzazione commerciale intersettoriale di portata locale.
+   </string>
+
+    <string name = "textoSociosParrafo3"> ITIS Carlo Grassi. Partner. Torino. Italia. Liceo nel nord Italia, con una forte attenzione a ITC, elettrotecnica e automazione, ingegneria aeronautica, trasporti e logistica.
+   </string>
+    <string name = "textoSociosParrafo4"> Instituto Politécnico de Santarém. Partner. Santarem. Portogallo. È un istituto di istruzione superiore pubblico e comprende le seguenti scuole: agricoltura, sport, istruzione, management, tecnologia e salute.
+   </string>
+
+
+    <!--- Messaggi Manuale -->
+    <string name = "textotitulomanual1">
+        Perché usare questa pagina?
+  </string>
+    <string name = "textomanual1">
+        Questa pagina intende essere uno strumento per aiutare la ricerca di partner di futuri progetti europei.
+  </string>
+    <string name = "textotitulomanual2">
+        Come funziona?
+  </string>
+    <string name = "textomanual2">
+        Per poter usare questa pagina devi prima registrarti.
+      </string>
+    <string name = "textomanual21">
+1a REGISTRAZIONE Durante la registrazione ti verranno chieste le seguenti informazioni:
+  </string>
+    <string name = "textomanual22">
+ Dati dal centro di lavoro.
+In questa sezione ti verranno chiesti i seguenti dati dal tuo centro di lavoro.
+ </string>
+    <string name = "textomanual23">
+Nome del centro:
+strada:
+città:
+Nazione:
+e-mail:
+Tipo di centro: qui è necessario selezionare se si tratta di una scuola (primaria, secondaria, …) una società (azienda) un istituzione pubblica (ente pubblico) o un altro tipo di organizzazione (ONG, ...)
+Inserisci il tuo PIC. Il PIC è un dato molto importante che la tua istituzione deve avere per realizzare qualsiasi progetto europeo. Puoi controllare il tuo PIC qui Puoi ottenere il PIC della tua istituzione qui. In caso di assenza di PIC, inserire 000.
+
+ </string>
+    <string name = "textomanual24">
+Informazioni personali In questa sezione ti verranno chieste le seguenti informazioni personali Nome: Cognome: email: Password: Ripeti la password:
+ </string>
+    <string name = "textomanual25">
+        Seleziona area: in questa sezione devi selezionare la tua area di lavoro o specializzazione personale.
+Tipo di progetto È necessario indicare in quale tipo di progetto si desidera partecipare o se ne esiste già uno indicare il tipo. Essere in grado di essere KA1 (101, 102, ...) KA2 (201,202, ....)
+Nome del progetto: (facoltativo)
+Una volta accettate le condizioni e il captcha della pagina, voi e il vostro istituto riceverete un'e-mail che deve confermare. Se non ricevi l'email, controlla la cartella Spam. Non potrai accedere fino a quando non avrai confermato entrambe le e-mail (il tuo istituto e te).
+  </string>
+    <string name = "textotitulomanual3">
+        2º RICERCA DEI PARTNER.
+  </string>
+    <string name = "textomanual3">
+        Per cercare partner, è necessario completare tutti i passaggi nella sezione precedente. Accedi con la tua email personale come username e la password che hai inserito nel registro. Se non ricordi la password, puoi richiederne una nuova.
+        Dopo aver effettuato il login è possibile cercare i partner registrati nel sistema. Per questo hai un filtro che ti chiederà:
+  </string>
+    <string name = "textomanual4"> Paese: Seleziona area: Tipo di centro: Seleziona il tipo di progetto: il sistema mostrerà tutti i possibili partner che soddisfano i filtri richiesti. Cliccando sul pulsante
+  </string>
+    <string name = "textomanual5">
+        Ti permetterà di inviare una email alla persona che si è registrata, è consigliabile condividere la tua email. Non avrai accesso diretto alla e-mail del partner con cui desideri contattare, solo se condividi i tuoi potresti metterti in contatto più velocemente. Il sistema non memorizza nessuna email dei dati inviati solo per mettere in contatto i partner. Solo la tua email personale verrà condivisa, se lo desideri.
+  </string>
+
+    <string name = "textomanual6">
+Il team di Yfys ti augura buona fortuna </string>
+    
+
+</resources>

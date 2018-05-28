@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">YFYS. Erasmus +</string>
+
+    <string name="navigation_drawer_open">Abrir a caixa de navegação</string>
+    <string name="navigation_drawer_close">Feche a caixa de navegação</string>
+
+
+    <string name="action_settings">Configurações</string>
+    <string name="erasmus">Erasmus+</string>
+    <string name="subtitulo">Your future in your Smartphone</string>
+    <string name = "buscar_socios_proyecto"> Pesquisar membros / projeto  </string>
+
+
+    <string name = "botonforgotpassword"> Clique aqui para recuperar a sua senha  </string>
+    <string name = "bajarealizada"> Transferência concluída  </string>
+    <string name="RecuperoPassword">Email</string>
+    <string name="enviarEmail"> Email </string>
+    <string name = "acerca"> Sobre  </string>
+    <string name = "socios_en_el_proyecto"> Parceiros do projeto  </string>
+    <string name = "links"> Links  </string>
+    <string name="login"> Identificação  </string>
+    <string name = "logout"> Sair  </string>
+    <string name="registro">Registo</string>
+    <string name="baja">Cancelar a inscrição</string>
+    <string name = "recursoseduc"> Registo  </string>
+    <string name = "buscador"> Mecanismo de pesquisa  </string>
+    <string name = "menuusuario"> Utilizador  </string>
+    <string name = "menuinfo"> Informação  </string>
+    <string name = "disclaimer"> Aviso legal  </string>
+    <string name = "manual"> Manual  </string>
+    <string name = "salir"> Sair  </string>
+
+    <!--- Dialogo DEBE REALIZAR LOGIN -->
+    <string name = "titulodebelogin"> Informação  </string>
+    <string name = "textodialogodebelogin"> Faça o login para efetuar pesquisas  </string>
+
+
+    <!--- Dialogo OK -->
+    <string name = "titulologin"> PESQUISA </string>
+    <string name = "textodialogologin"> Espere  que os seus dados sejam apagados para realizar a pesquisa dados. </string>
+
+
+
+    <!--- Dialogo PIC -->
+    <string name = "tituloPIC"> Informação PIC </string>
+    <string name = "textodialogoPIC"> Os dados PIC são necessários para realizar un projeto Europeu. Se não possuir PIC preencha o campo com  000 </string>
+
+
+    <!--- Dialogo SIN DATOS -->
+    <string name = "titulodialogosindatos"> SEM RESULTADOS </string>
+    <string name = "textodialogosinddatos" > Critérios de retrooceder  </string>
+
+
+<!--- Dialogo SENHA OK -->
+<string name = "tituloPasswordok"> Informação Senha </string>
+<string name = "textodialogoPasswordok"> Consulte o seu e-mail. Em  algumas situações consulte também a pasta de de SPAM </string>
+
+<!--- Dialogo EMAIL OK -->
+<string name = "tituloeemaildok"> EMAIL ENVIADO </string>
+<string name = "textodialogoemailok"> Foi enviado um email. Boa sorte </string>
+
+
+<!--- Dialogo SENHA E-MAIL OU NÃO CONFIRMAR -->
+<string name = "tituloPasswordfail"> Informação Senha </string>
+<string name = "textodialogoPasswordfail"> O email não está registado. Deve confirmar o registo. </string>
+
+
+<!--- Dialogo OK -->
+<string name= "titulodialogo"> Fim do Registo </string>
+<string name = "textodialogo"> Por favor, verifique o e-mail e envie um e-mail para completar o registo. Em alguns casos, verifique a pasta de spam </string>
+
+<string name = "NombrePersona"> Nome da pessoa: </string>
+
+
+<!--- Dialogo BAJA -->
+<string name = "tituloBaja"> Cuidado </string>
+   <string name = "textodialogoBaja"> Continuar  se procedeu a um apagar de Dados Seguro? </string>
+
+    <!--- Diálogo OK -->
+    <string name = "titulologout"> SAIR </string>
+    <string name = "textodialogologout"> Saiu do sistema. </string>
+
+
+    <!--- Diálogo DEVE SAIR -->
+    <string name = "titulodebenologin"> DEVE SAIR </string>
+    <string name = "textodialogodebenologin"> Deve sair da conta atual para efetuar login. </string>
+
+
+    <!--- Diálogo DEVE SER BAIXO -->
+    <string name = "titulodebebaja"> Informação </string>
+    <string name = "textodialogodebebaja"> Deve efetuar o login para cancelar a inscrição. </string>
+
+
+    <!--- Diálogo DEVE SAIR -->
+    <string name = "titulodebelogin2"> INFORMAÇÃO </string>
+    <string name = "textodialogodebelogin2"> Deve efetuar o login. </string>
+
+    <!--- Diálogo DEVE SAIR 2 -->
+    <string name = "titulodebenologin2"> DEVE SAIR </string>
+    <string name = "textodialogodebenologin2"> Deve deixar a conta corrente para registar-se. </string>
+
+    <!--- Registro -->
+
+    <string name="DatosInstitucion">Instituição</string>
+    <string name="Nombre">Nome</string>
+    <string name="cabecera_socios">Parceiros no projeto</string>
+    <string name="cabecera_enlaces">Links</string>
+    <string name="email">email</string>
+    <string name="botonEnlace1">Website </string>
+    <string name="botonEnlace2">  Disseminação do projeto </string>
+    <string name="buscar">Pesquisar </string>
+    <string name="botonLogin"> Efetuar login </string>
+    <string name="pass">Senha</string>
+    <string name="user">Utilizador</string>
+    <string name="cabeceraLogin">Login</string>
+    <string name="cabeceraRegistro">Novo Registo</string>
+    <string name="apellidos">Apelido </string>
+    <string name="repetirPass">Repetir senha</string>
+    <string name="botonRegistro">Registe-se </string>
+    <string name="tipoProyecto">Tipo</string>
+    <string name="email_institucion">E-mail Instituição</string>
+    <string name="area">Area</string>
+    <string name="nombreProyecto">Nome</string>
+    <string name="tipo">Tipo</string>
+    <string name="pais">País</string>
+    <string name="calle">Rua</string>
+    <string name="ciudad">Cidade </string>
+    <string name="botonRegistroInstitucion">Registe-se</string>
+    <string name="nombre_del_centro">Nome do Centro</string>
+    <string name="tipo_de_centro">Tipo de Centro</string>
+    <string name="Acepta">Aceitar </string>
+    <string name="Condiciones"> Condições </string>
+    <string name="PIC">PIC </string>
+
+
+
+    <!--- Aviso Legal -->
+    <string name = "disclaimer1"> Co-financiado pelo Programa Erasmus + da União Europeia </string>
+    <string name = "disclaimer2"> Projeto financiado com o apoio da Comissão Europeia.
+A informação contida nesta publicação (comunicação) vincula exclusivamente o autor, não sendo a Comissão responsável pela utilização
+        que dela possa ser feita </string>
+
+
+    <string name = "compartiremail"> Clique para partilhar seu email </string>
+    <string name = "textobaja"> Ao pressionar o botão seguinte irá eliminar os dados do sistema. Deve se registar-se novamente. </string>
+    <string name = "botonbaja"> TRANSFERIR </string>
+
+
+
+    <!--- Erros -->
+    <string name = "errordatosvacios"> Os dados não podem ser vazios. </string>
+    <string name = "errorpassword"> A senha não corresponde. </string>
+    <string name = "errordatosemail"> Email incorreto ou não preenchido </string>
+    <string name = "erroracepta"> Deve aceitar </string>
+    <string name = "errorinserccion"> Erro de inserção </string>
+    <string name = "todook"> Verifique seu e-mail e o e-mail da sua instituição para confirmar o registo </string>
+
+    <string name = "todookemail"> E-mail enviado </string>
+
+    <!--- Outras mensagens -->
+    <string name="Mensajeescribe">Escreva a sua mensagem. Pressione o botão acima para partilhar o seu e-mail, o sistema não irá partilhá-lo com terceiros</string>
+      <!--- MENSAGENS DE BRINCO -->
+
+    <string name = "identificacion"> Idenificado como </string>
+    <string name = "validacion"> Deve validar o seu nome de utilizador via e-mail para aceder à sua conta </string>
+    <string name = "validaciondatos"> Digite o email e senha válidos </string>
+    <string name = "validacionemail"> Digite um email válido </string>
+    <string name = "errorconexion"> Erro ao conectar-se ao banco de dados, verifique a sua ligacação com a Internet </string>
+    <string name = "validacioncampos"> Por favor, digite todos os campos </string>
+    
+    <!--- Textos longos -->
+    <string name = "textoAcercaParrafo1"> A ideia. Hoje, todos nós temos um smartphone (smart phone) no bolso. O principal objetivo do projeto é desenvolver um aplicativo de software que utilize licenças de software livre para pesquisar  parceiros nos diferentes projetos europeus.
+
+           </string>
+    <string name = "textoAcercaCabecera2"> O projeto visa:
+     </string>
+    <string name = "textoAcercaobjetivoa"> A) Compartilhar boas práticas entre os parceiros no campo do software livre; </string>
+    <string name = "textoAcercaobjetivob"> B) Promover e articular o trabalho conjunto dos Centros Educacionais envolvidos, pertencentes a diferentes contextos culturais, lingüísticos, socioeconómicos, etc .; </string>
+    <string name = "textoAcercaobjetivoc"> C) Desenvolver estratégias para integrar os conhecimentos adquiridos no currículo de cada escola;
+ </string>
+    <string name = "textoAcercaobjetivod"> D) Envolver os alunos no projeto; </string>
+    <string name = "textoAcercaobjetivoe"> E) Planear e desenvolver um website e  uma aplicação mobile Android que implemente os objetivos estabelecidos para o projeto;
+ </string>
+    <string name = "textoAcercaobjetivof"> F) Uso de ferramentas para disseminar atividades; </string>
+    <string name = "textoAcercaobjetivog"> \ nG) Monitorizar o progresso do projeto; </string>
+    <string name = "textoAcercaobjetivoi"> I) Avaliar a possibilidade de estender o projeto para outros idiomas; </string>
+
+
+
+
+    <string name = "textoAcercaCabecera3"> Recursos produzidos por parceiros que permitirão: </string>
+    <string name = "textoAcercaParrafo3">
+        Desenvolvimento de um website, bem como uma aplicação Android, baseada nas boas práticas acordadas pelos parceiros que permite o registo de instituições e pesquisa de parceiros de diferentes projetos, pesquisa de parceiros europeus,
+        Comunicação entre parceiros para estabelecer / construir o projeto.
+       </string>
+
+
+    <string name = "visitlink"> Visitar o site </string>
+
+    <string name = "textoSociosParrafo1"> IES Cristobal de Monroy. Coordenador Alcalá de Guadaíra (Sevilha) Espanha. Instituto de Ensino (ESO, Bacharelato e Formação Profissional de Computação e Comércio) Tem a carta ECHE e participa atualmente em projetos Erasmus + KA1 e KA2.
+    </string>
+
+    <string name = "textoSociosParrafo2"> FICA. Parceiro A Federação dos Industriais e Comerciantes de Alcalá de Guadaira (Sevilha) Espanha é uma organização empresarial intersetorial de âmbito local.
+    </string>
+
+    <string name = "textoSociosParrafo3"> ITIS Carlo Grassi. Parceiro Turim Itália Ensino médio no norte da Itália, com forte foco em TIC, Eletrotécnica e Automação, Engenharia Aeronáutica, Transporte e Logística.
+    </string>
+    <string name = "textoSociosParrafo4"> Instituto Politécnico de Santarém. Parceiro Santarém Portugal É uma instituição pública de ensino superior e é composta pelas seguintes escolas: Agricultura, Desporto, Educação, Gestão e Tecnologia e Saúde.
+    </string>
+
+    <!--- Manual de Mensagens -->
+    <string name = "textotitulomanual1">
+        Porquê usar esta página?
+    </string>
+    <string name = "textomanual1">
+        Esta página destina-se a ser uma ferramenta para ajudar na pesquisa de parceiros de futuros projetos europeus.
+     </string>
+    <string name = "textotitulomanual2">
+        Como funciona?
+    </string>
+    <string name = "textomanual2">Para poder usar esta página, deve registar-se primeiro.
+        </string>
+    <string name = "textomanual21">
+1º INSCRIÇÃO Durante o registo, será solicitado para as seguintes informações:
+    </string>
+    <string name = "textomanual22">
+ Dados da Instituição.
+Nesta seção, será solicitado para os seguintes dados da sua instituição.
+ </string>
+    <string name = "textomanual23">Nome do centro:
+Rua:
+Cidade:
+País:
+email:
+Tipo de Centro: Aqui  deve selecionar se é uma escola (Primária, Secundária, ...) uma empresa (Empresa) uma instituição pública (Instituição Pública) ou outro tipo de organização (ONG, ...)
+Digite seu PIC. O PIC é um dado muito importante que a sua instituição deve ter para realizar qualquer projeto europeu. Pode conferir o seu PIC aqui Pode obter o PIC para a sua instituição aqui. Em caso de não ter PIC, digite 000.
+
+ </string>
+    <string name = "textomanual24">
+Dados pessoais. Nesta seção será solicitado para as seguintes informações pessoais: Nome: Apelido: email: Senha: Repita a senha:
+ </string>
+    <string name = "textomanual25">
+        Selecionar área: nesta seção deve selecionar a sua área de trabalho ou especialização pessoal.
+Tipo de projeto Deve indicar em que tipo de projeto  deseja participar, ou se  já tem um, indique o tipo.  KA1 (101, 102, ...) KA2 (201,202, ....)
+Nome do projeto: (opcional)
+Uma vez aceites as condições e o captcha da página você e a sua instituição receberão um email que deve confirmar. Se não receber o email, verifique a pasta Spam. Não poderá fazer login até ter confirmado ambos os e-mails (instituição e o e-mail próprio).
+    </string>
+    <string name = "textotitulomanual3">
+        2º PESQUISA DE PARCEIROS.
+    </string>
+    <string name = "textomanual3">
+        Para procurar parceiros, deve concluir todas as etapas da seção anterior. Entre com o seu e-mail pessoal  e com o nome de utilizador e a senha que digitou no registo. Se não se lembra da senha,  pode solicitar uma nova.
+        Quando fizer o login, poderá procurar os parceiros registados no sistema. Para isso  tem um filtro que perguntará:
+    </string>
+    <string name = "textomanual4"> País: Área selecionada: Tipo de instituição: Selecione o tipo de projeto: O sistema mostrará todos os parceiros possíveis que estão em conformidade com os filtros que foram solicitados. Clicando no botão
+    </string>
+    <string name = "textomanual5">        Permitirá que envie um email para a pessoa que se registou, é aconselhável partilhar o seu email. Não terá acesso direto ao e-mail do parceiro com quem deseja entrar em contacto. Se  partilhar o seu e-mail, poderá entrar em contacto de maneira mais rápida. O sistema não armazena nenhum email do enviado apenas os dados para colocar em contacto os parceiros. Apenas o seu email pessoal será compartilhado, se desejar.
+    </string>
+
+    <string name = "textomanual6">A equipa Yfys deseja-lhe sorte </string>
+</resources>

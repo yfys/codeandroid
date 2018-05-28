@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp">
+
+            <TextView
+                android:id="@+id/tvAcercaCabecera"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/acerca"
+                android:textColor="#3D5AFE"
+                android:textSize="30dp" />
+
+            <TextView
+                android:id="@+id/tvAcercaCuerpoParrafo1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textoAcercaParrafo1" />
+
+            <TextView
+                android:id="@+id/tvAcercaCabecera2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textoAcercaCabecera2"
+                android:textColor="#3D5AFE"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/tvAcercaCuerpoobjetivoa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/textoAcercaobjetivoa" />
+            <TextView
+                android:id="@+id/tvAcercaCuerpoobjetivob"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/textoAcercaobjetivob" />
+            <TextView
+                android:id="@+id/tvAcercaCuerpoobjetivoc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/textoAcercaobjetivoc" />
+            <TextView
+                android:id="@+id/tvAcercaCuerpoobjetivod"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/textoAcercaobjetivod" />
+            <TextView
+                android:id="@+id/tvAcercaCuerpoobjetivoe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/textoAcercaobjetivoe" />
+            <TextView
+                android:id="@+id/tvAcercaCuerpoobjetivof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/textoAcercaobjetivof" />
+            <TextView
+                android:id="@+id/tvAcercaCuerpoobjetivog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/textoAcercaobjetivog" />
+            <TextView
+                android:id="@+id/tvAcercaCuerpoobjetivoi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/textoAcercaobjetivoi" />
+
+
+
+            <TextView
+                android:id="@+id/tvAcercaCuerpoParrafo3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textoAcercaCabecera3"
+                android:textColor="#3D5AFE"
+                android:textSize="18dp"/>
+
+            <TextView
+                android:id="@+id/tvAcercaCuerpoParrafo4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textoAcercaParrafo3" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvSociosCabecera"
+                android:layout_width="match_parent"
+                android:layout_height="39dp"
+                android:text="@string/cabecera_socios"
+                android:textSize="25dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+             android:layout_marginBottom="18dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginStart="18dp"
+            android:layout_marginTop="18dp">
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="352dp"
+                android:layout_height="88dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/logomonroy" />
+
+            <TextView
+                android:id="@+id/tvSociosCuerpo1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:text="@string/textoSociosParrafo1" />
+
+            <Button
+                android:id="@+id/buttonlink1"
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/boton_enlaces"
+                android:textColor="#fff"
+                android:text="@string/visitlink"
+                />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="352dp"
+                android:layout_height="88dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/logo_fica" />
+
+            <TextView
+                android:id="@+id/tvSociosCuerpo2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="14dp"
+                android:text="@string/textoSociosParrafo2" />
+
+            <Button
+                android:id="@+id/buttonlink2"
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/boton_enlaces"
+                android:textColor="#fff"
+                android:text="@string/visitlink"
+                />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="352dp"
+                android:layout_height="88dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/logo_grassi" />
+
+            <TextView
+                android:id="@+id/tvSociosCuerpo3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="14dp"
+                android:text="@string/textoSociosParrafo3" />
+
+
+            <Button
+                android:id="@+id/buttonlink3"
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/boton_enlaces"
+                android:textColor="#fff"
+                android:text="@string/visitlink"
+                />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="352dp"
+                android:layout_height="88dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ips" />
+
+            <TextView
+                android:id="@+id/tvSociosCuerpo4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="14dp"
+                android:text="@string/textoSociosParrafo4" />
+
+            <Button
+                android:id="@+id/buttonlink4"
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/boton_enlaces"
+                android:textColor="#fff"
+                android:text="@string/visitlink"
+                />
+        </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YFYS. Erasmus +</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="erasmus">Erasmus+</string>
+    <string name="subtitulo">Your future in your Smartphone</string>
+
+    <string name="buscar_socios_proyecto">" Search Members / Project "</string>
+
+
+    <string name="botonforgotpassword">"Click here to recover your password "</string>
+    <string name="bajarealizada">Unsubscribe done</string>
+
+    <string name="RecuperoPassword">Write your  email</string>
+
+    <string name="enviarEmail"> Email </string>
+    <!--- Opciones de menu -->
+    <string name="baja">Unsubscribe</string>
+    <string name="acerca">About</string>
+    <string name="socios_en_el_proyecto">"Partners in the project "</string>
+    <string name="enlaces">Links</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="registro">Register</string>
+
+    <string name="buscador">Search</string>
+    <string name="menuusuario">User</string>
+    <string name="menuinfo">Information</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="manual">Manual</string>
+    <string name="salir">Exit</string>
+
+    <!--- Dialogo DEBE REALIZAR LOGIN -->
+    <string name="titulodebelogin">Information</string>
+    <string name = "textodialogodebelogin"> You must login to search. </string>
+
+    <!--- Dialog OK -->
+    <string name = "titulologin"> SEARCH </string>
+    <string name = "textodialogologin"> Wait for the data to load to perform data filtering. </string>
+
+
+
+    <!--- PIC Dialog -->
+    <string name = "tituloPIC"> PIC information </string>
+    <string name = "textodialogoPIC"> The PIC Data will be necessary to carry out a European project. If you do not have it, you must fill this field with 000 </string>
+
+
+    <!--- NON-DATA dialog -->
+    <string name = "titulodialogosindatos"> NO RESULTS </string>
+    <string name = "textodialogosinddatos"> That combination has no results. Press back and change criteria </string>
+
+
+    <!--- Dialog PASSWORD OK -->
+    <string name = "titlePasswordok"> Password Information </string>
+    <string name = "textodialogoPasswordok"> Check your email. Sometimes you should check the SPAM folder </string>
+
+    <!--- Dialog EMAIL OK -->
+    <string name = "tituloeemaildok"> EMAIL SENT </string>
+    <string name = "textodialogoemailok"> We have sent an email. We wish you luck </string>
+
+
+    <!--- Dialog PASSWORD EMAIL OR NOT CONFIRM -->
+    <string name = "titlePasswordfail"> Information Password </string>
+    <string name = "textodialogoPasswordfail"> The email is not registered. You must confirm the registration. </string>
+
+
+    <!--- Dialog OK -->
+    <string name = "titulodialogo"> End of Registration </string>
+    <string name = "textodialogo"> Please check your email and that of your institution to complete the registration. In some cases you should check the Spam folder </string>
+
+    <string name = "PersonName"> Contact Person Name: </string>
+
+
+    <!--- LOW Dialog -->
+    <string name = "tituloBaja"> Unsubscribe </string>
+    <string name = "textodialogoBaja"> If you continue your data it will delete, are you sure? </string>
+
+    <!--- Dialog OK -->
+    <string name = "titulologout"> LOGOUT </string>
+    <string name = "textodialogologout"> You are logout the system. </string>
+
+
+    <!--- Dialog MUST COME OUT -->
+    <string name = "titulodebenologin"> LOGOUT  </string>
+    <string name = "textodialogodebenologin"> You must logout the current account to login. </string>
+
+
+    <!-- Dialog MUST BE LOW -->
+    <string name = "titulodebebaja"> Information </string>
+    <string name = "textodialogodebebaja"> You must login to unsubscribe. </string>
+
+
+    <!--- Dialog MUST COME OUT -->
+    <string name = "titulodebelogin2"> INFORMATION </string>
+    <string name = "textodialogodebelogin2"> You must login. </string>
+
+    <!--- Dialog MUST COME OUT 2 -->
+    <string name = "titulodebenologin2"> LOGOUT </string>
+    <string name = "textodialogodebenologin2"> You must logout  the current account to register. </string>
+
+    <!--- Registro -->
+    <string name="DatosInstitucion">Institution</string>
+    <string name="Nombre">Name</string>
+    <string name="cabecera_socios">Partners in the project</string>
+    <string name="cabecera_enlaces">Links</string>
+    <string name="email">email</string>
+    <string name="botonEnlace1">Website</string>
+    <string name="botonEnlace2"> Dissemination  </string>
+    <string name="buscar">Search</string>
+    <string name="botonLogin">Login</string>
+    <string name="pass">password</string>
+    <string name="user">User</string>
+    <string name="cabeceraLogin">Login</string>
+    <string name="cabeceraRegistro">Register</string>
+    <string name="apellidos">Last name</string>
+    <string name="repetirPass">password again</string>
+    <string name="botonRegistro">Register</string>
+    <string name="tipoProyecto">Type</string>
+    <string name="email_institucion">E-mail institution</string>
+    <string name="area">Area</string>
+    <string name="nombreProyecto">Name</string>
+    <string name="tipo">Type</string>
+    <string name="pais">Country</string>
+    <string name="calle">Street</string>
+    <string name="ciudad">City</string>
+    <string name="botonRegistroInstitucion">Register</string>
+    <string name="nombre_del_centro">Name of the center</string>
+    <string name="tipo_de_centro">Type of center</string>
+    <string name="Acepta">You must accept </string>
+    <string name="Condiciones">terms </string>
+    <string name="PIC">PIC </string>
+
+    <!--- Disclaimer -->
+    <string name = "disclaimer1"> Co-funded by the Erasmus + Program of the European Union </string>
+    <string name = "disclaimer2"> The European Commission support for the production of this publication does not constitute an endorsement of the contents which reflects the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein. </string>
+
+
+    <string name = "compartiremail"> Click to share your email </string>
+    <string name = "textobaja"> Pressing the next button will proceed to eliminate your data from the system. You must re-register again. </string>
+    <string name = "botonbaja"> BAJA </string>
+
+
+
+    <!--- Errors -->
+    <string name = "errordatosvacios"> The data can not be empty. </string>
+    <string name = "errorpassword"> Password does not match. </string>
+    <string name = "errordatosemail"> Incorrect or empty email </string>
+    <string name = "erroracepta"> Must accept </string>
+    <string name = "errorinserccion"> Insertion error </string>
+    <string name = "todook"> Check your email and your institution to confirm the registration </string>
+
+    <string name = "todookemail"> Email sent </string>
+
+    <!--- Other messages -->
+    <string name = "Mensajeescribe"> Write your message. Press above to share your email if you want to share it the system will not share it </string>
+    <!--- TOAST MESSAGES -->
+
+    <string name = "identification"> Idenfied as </string>
+    <string name = "validation"> You must validate your username via email to access your account </string>
+    <string name = "validaciondatos"> Enter valid email and password </string>
+    <string name = "validacionemail"> Enter valid email </string>
+    <string name = "errorconexion"> Error connecting to the database, check your internet connection </string>
+    <string name = "validacioncampos"> Please enter all fields </string>
+
+
+
+
+    <!--- Long texts -->
+    <string name = "textoAcercaParrafo1"> The idea. Today, we all have a smartphone (smart phone) in our pocket. The main objective of the project is to develop a software application that uses free software licenses for the search of partners on the different European projects.
+
+           </string>
+    <string name = "textoAcercaCabecera2"> The project aims to:
+     </string>
+    <string name = "textoAcercaobjetivoa"> A) Share good practices among partners in the field of free software; </string>
+    <string name = "textoAcercaobjetivob"> B) Promote and articulate the joint work of the Educational Centers involved, belonging to different cultural, linguistic and socioeconomic contexts, etc.; </string>
+    <string name = "textoAcercaobjetivoc"> C) Develop strategies to integrate the knowledge acquired in each curriculum of schools;
+ </string>
+    <string name = "textoAcercaobjetivod"> D) Involve students in the project; </string>
+    <string name = "textoAcercaobjetivoe"> E) Planning and development of a website and an Android mobile application that implements the objectives set for the project;
+ </string>
+    <string name = "textoAcercaobjetivof"> F) Use of tools to disseminate activities; </string>
+    <string name = "textoAcercaobjetivog"> \ nG) Monitoring project progress; </string>
+    <string name = "textoAcercaobjetivoi"> I) Evaluate the possibility of extending the project to other languages; </string>
+
+
+    <string name = "textoAcercaCabecera3"> Resources produced by partners that will allow: </string>
+    <string name = "textAboutParagraph3">
+        Development of a website, as well as an Android application, based on the good practices agreed by the partners that allows Registration of insitutions and research of partners of different projects, Research of European partners
+        , Communication between partners to establish / build the project.
+       </string>
+
+
+    <string name = "visitlink"> Visit website </string>
+
+    <string name = "textoSociosParrafo1"> IES Cristobal de Monroy. Coordinator. Alcalá de Guadaíra (Seville) Spain. Teaching Institute (ESO, Bachillerato and Vocational Training of Computing and Commerce) It has the ECHE letter and is currently participating in Erasmus + KA1 and KA2 projects.
+    </string>
+
+    <string name = "textoSociosParrafo2"> FICA. Partner. The Federation of Industrialists and Merchants of Alcalá de Guadaira (Seville) Spain is an intersectorial business organization of local scope.
+    </string>
+
+    <string name = "textoSociosParrafo3"> ITIS Carlo Grassi. Partner. Turin Italy. High school in the north of Italy, with a strong focus on ITC, Electrotechnics and Automation, Aeronautical Engineering, Transport and Logistics.
+    </string>
+    <string name = "textoSociosParrafo4"> Instituto Politécnico de Santarém. Partner. Santarem. Portugal. It is a public higher education institution and consists of the following Schools: Agriculture, Sports, Education, Management and Technology and Health.
+    </string>
+    <!--- Messages Manual -->
+    <string name = "textotitulomanual1">
+        Why use this page?
+    </string>
+    <string name = "textomanual1">
+        This page is intended to be a tool to help the search for partners of future European projects.
+    </string>
+    <string name = "textotitulomanual2">
+        How does it work?
+    </string>
+    <string name = "textomanual2">
+        To use this page you must register first.
+        </string>
+    <string name = "textomanual21">
+1st REGISTRATION During the Registration you will be asked for the following information:
+    </string>
+    <string name = "textomanual22">
+ Data from the Work Center.
+In this section you will be asked for the following data from your work center.
+ </string>
+    <string name = "textomanual23">
+Name of the centre:
+Street:
+City:
+Country:
+e-mail:
+Type of Center: Here you must select if it is a school (Primary, Secondary, ...) a company (Company) a public institution (Public Institution) or another type of organization (NGO, ...)
+Enter your PIC. The PIC is a very important data that your institution must have in order to carry out any European project. You can check your PIC here You can get the PIC for your institution here. In case of not having PIC please enter 000.
+
+ </string>
+    2060/5000
+    <string name = "textomanual24">
+Personal information. In this section you will be asked for the following personal information. Name: Surname: email: Password: Repeat the password:
+ </string>
+    <string name = "textomanual25">
+        Select area: In this section you must select your area of ​​work or personal specialization.
+Type of project You must indicate in what type of project you wish to participate, or if you already have one indicate the type. Being able to be KA1 (101, 102, ...) KA2 (201,202, ....)
+Project name: (Optional)
+Once the conditions and the captcha of the page are accepted, you and your institution will receive an email that must be confirmed. If you do not receive the email, please check the Spam folder. You will not be able to login until you have confirmed both emails (your institution and you).
+    </string>
+    <string name = "textotitulomanual3">
+        2º SEARCH OF PARTNERS.
+    </string>
+    <string name = "textomanual3">
+        In order to search for partners, you must complete all the steps in the previous section. Login with your personal email as username and the password you entered in the registry. If you do not remember the password you can request a new one.
+        When you have made the login you can search for the partners that are registered in the system. For this you have a filter that will ask you:
+    </string>
+    <string name = "textomanual4"> Country: Select area: Type of Center: Select type of project: The system will show all the possible partners that comply with the filters that have been requested. Clicking on the button
+    </string>
+    <string name = "textomanual5">
+        It will allow you to send an email to the person who has registered, it is advisable to share your email. You will not have direct access to the email of the partner with whom you wish to contact, only if you share yours could you get in touch in a faster way. The system does not store any email of the sent only the data to put in contact the partners. Only your personal email will be shared if you wish.
+    </string>
+
+    <string name = "textomanual6">
+Yfys team wishes you luck </string>
+
+
+</resources>

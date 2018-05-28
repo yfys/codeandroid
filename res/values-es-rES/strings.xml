@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YFYS. Erasmus +</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="erasmus">Erasmus+</string>
+    <string name="subtitulo">Your future in your Smartphone</string>
+
+    <string name="buscar_socios_proyecto">Buscar Socios/Proyecto</string>
+
+
+    <string name="botonforgotpassword">Pulsa aqui para recuperar tu password</string>
+    <string name="bajarealizada">Baja realizada</string>
+
+    <string name="RecuperoPassword">Email</string>
+    <string name="enviarEmail">Enviar Email </string>
+
+    <string name="acerca">Acerca</string>
+    <string name="socios_en_el_proyecto">Socios en el proyecto</string>
+    <string name="enlaces">Enlaces</string>
+    <string name="login">Identificación</string>
+    <string name="logout">Logout</string>
+    <string name="registro">Registro</string>
+    <string name="baja">Baja</string>
+    <string name="buscador">Buscador</string>
+    <string name="menuusuario">Usuario</string>
+    <string name="menuinfo">Informacion</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="manual">Manual</string>
+    <string name="salir">Salir</string>
+    <!--- Dialogo DEBE REALIZAR LOGIN -->
+    <string name="titulodebelogin">Información</string>
+    <string name="textodialogodebelogin">Debe realizar el login para poder buscar.</string>
+
+    <!--- Dialogo OK -->
+    <string name="titulologin">BUSQUEDA</string>
+    <string name="textodialogologin">Espere a que se carguen los datos para realizar filtrado de datos.</string>
+
+
+
+    <!--- Dialogo PIC -->
+    <string name="tituloPIC">Informacion PIC</string>
+    <string name="textodialogoPIC">EL Dato del PIC sera necesario para realizar un proyecto Europeo. Si no dispone debe rellenar este campo con 000</string>
+
+
+    <!--- Dialogo SIN DATOS -->
+    <string name="titulodialogosindatos">SIN RESULTADOS</string>
+    <string name="textodialogosinddatos">Esa combinacion  no tiene resultados. Pulse atras y cambie criterios</string>
+
+
+    <!--- Dialogo PASSWORD OK -->
+    <string name="tituloPasswordok">Informacion Password</string>
+    <string name="textodialogoPasswordok">Revise su email. En algunas ocasiones debe revisar la carpeta de SPAM</string>
+
+    <!--- Dialogo EMAIL  OK -->
+    <string name="tituloeemaildok">EMAIL ENVIADO</string>
+    <string name="textodialogoemailok">Hemos enviado un email. Le deseamos suerte</string>
+
+
+    <!--- Dialogo PASSWORD EMAIL OR NOT CONFIRM -->
+    <string name="tituloPasswordfail">Informacion Password</string>
+    <string name="textodialogoPasswordfail">El email no esta registrado. Debe Confirmar el registro.</string>
+
+
+    <!--- Dialogo OK -->
+    <string name="titulodialogo">Fin de Registro</string>
+    <string name="textodialogo">Por favor revise su email y el de su institucion para completar el registro. En algunos casos debe revisar la carpeta de Spam</string>
+
+    <string name="NombrePersona">Nombre persona de contacto:</string>
+
+
+    <!--- Dialogo BAJA -->
+    <string name="tituloBaja">Cuidado</string>
+    <string name="textodialogoBaja">Si continua se procedera a borrar sus datos ¿Esta usted Seguro?</string>
+
+
+    <!--- Dialogo BAJA -->
+
+
+
+
+    <!--- Dialogo OK -->
+    <string name="titulologout">LOGOUT</string>
+    <string name="textodialogologout">Ha salido del sistema.</string>
+
+
+    <!--- Dialogo DEBE SALIR -->
+    <string name="titulodebenologin">DEBE SALIR</string>
+    <string name="textodialogodebenologin">Debe salir de la cuenta actual para hacer login.</string>
+
+
+    <!--- Dialogo DEBE BAJA -->
+    <string name="titulodebebaja">Información</string>
+    <string name="textodialogodebebaja">Debe realizar login para poder darse de baja.</string>
+
+
+    <!--- Dialogo DEBE SALIR -->
+    <string name="titulodebelogin2">INFORMACION</string>
+    <string name="textodialogodebelogin2">Debe realizar login.</string>
+
+    <!--- Dialogo DEBE SALIR 2 -->
+    <string name="titulodebenologin2">DEBE SALIR</string>
+    <string name="textodialogodebenologin2">Debe salir de la cuenta actual para registrarse.</string>
+
+    <!--- Registro -->
+    <string name="DatosInstitucion">Institución</string>
+    <string name="Nombre">Nombre</string>
+    <string name="cabecera_socios">Socios en el Proyecto</string>
+    <string name="cabecera_enlaces">Links</string>
+    <string name="email">email</string>
+    <string name="botonEnlace1">Página web</string>
+    <string name="botonEnlace2">  Difusión del proyecto  </string>
+    <string name="buscar">Buscar</string>
+    <string name="botonLogin">Iniciar sesión</string>
+    <string name="pass">Contraseña</string>
+    <string name="user">Usuario</string>
+    <string name="cabeceraLogin">Login</string>
+    <string name="cabeceraRegistro">Registro</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="repetirPass">Repite contraseña</string>
+    <string name="botonRegistro">Registrarse</string>
+    <string name="tipoProyecto">Tipo</string>
+    <string name="email_institucion">E-mail institución</string>
+    <string name="area">Area</string>
+    <string name="nombreProyecto">Nombre</string>
+    <string name="tipo">Tipo</string>
+    <string name="pais">País</string>
+    <string name="calle">Calle</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="botonRegistroInstitucion">Registrar</string>
+    <string name="nombre_del_centro">Nombre del centro</string>
+    <string name="tipo_de_centro">Tipo de centro</string>
+    <string name="Acepta">Acepta las </string>
+    <string name="Condiciones">Condiciones </string>
+    <string name="PIC">PIC </string>
+    <!--- Disclaimer -->
+    <string name="disclaimer1">Cofinanciado por el Programa Erasmus+ de la Unión Europea</string>
+    <string name="disclaimer2">El apoyo de la Comisión Europea para la elaboración de esta publicación no implica la aceptación de sus contenidos,
+         que es responsabilidad exclusiva de los autores.
+        \n\nPor tanto, la Comisión no es responsable del uso que pueda hacerse de la información aquí difundida.</string>
+
+
+    <string name="compartiremail">Pulsa para compartir tu email</string>
+    <string name="textobaja">Pulsando el siguiente botón se procederá a eliminar tus datos del sistema. Deberás volver a registrarte de nuevo.</string>
+    <string name="botonbaja">BAJA</string>
+
+
+
+    <!--- Errores -->
+    <string name="errordatosvacios">El dato no puede estar vacio.</string>
+    <string name="errorpassword">Password no coinciden.</string>
+    <string name="errordatosemail">Email incorrecto o vacio</string>
+    <string name="erroracepta">Debe aceptar</string>
+    <string name="errorinserccion">Error en la inserccion</string>
+    <string name="todook">Revise su email y el de su institucion para confirmar el registro</string>
+
+    <string name="todookemail">Email enviado</string>
+
+    <!--- Otros mensajes -->
+    <string name="Mensajeescribe">Escriba su mensaje. Pulse arriba para compartir  su email si desea compartirlo el sistema no lo compartirá </string>
+    <!--- MENSAJES DE TOAST -->
+
+    <string name="identificacion">Idenficado como </string>
+    <string name="validacion">Debes validar tu usuario via email para acceder a tu cuenta </string>
+    <string name="validaciondatos">Introduce email y password validos </string>
+    <string name="validacionemail">Introduce email valido </string>
+    <string name="errorconexion">Error de conexion con la base de datos, compruebe su conexión a internet </string>
+    <string name="validacioncampos">  Por favor, introduzca todos los campos </string>
+
+
+
+    <!--- Textos largos -->
+    <string name="textoAcercaParrafo1">La idea. Hoy en día, todos tenemos un smartphone (teléfono inteligente) en nuestro bolsillo. El objetivo principal del proyecto es desarrollar una aplicación de software que utilice licencias de software librepara la busqueda de socios sobre los diferentes proyectos europeos.
+
+           </string>
+    <string name="textoAcercaCabecera2"> El proyecto tiene como  objetivos:
+     </string>
+    <string name="textoAcercaobjetivoa">A) Compartir las buenas prácticas entre los socios en el campo del software libre;</string>
+    <string name="textoAcercaobjetivob">B) Promover y articular el trabajo conjunto de los Centros Educativos involucrados, pertenecientes a diferentes contextos culturales, lingüísticos y socioeconómicos, etc .;</string>
+    <string name="textoAcercaobjetivoc">C) Desarrollar estrategias para integrar los conocimientos adquiridos en el currículo de cada escuela;
+ </string>
+    <string name="textoAcercaobjetivod">D) Involucrar a los estudiantes en el proyecto; </string>
+    <string name="textoAcercaobjetivoe">E) Planificación y desarrollo de un sitio web y de una aplicación móvil de Android que implemente los objetivos previstos para el proyecto;
+ </string>
+    <string name="textoAcercaobjetivof">F) Uso de herramientas para difundir actividades; </string>
+    <string name="textoAcercaobjetivog">\nG) Seguimiento de los avances del proyecto; </string>
+    <string name="textoAcercaobjetivoi">I) Evaluar la posibilidad de ampliar el proyecto a otros idiomas; </string>
+
+
+
+
+    <string name="textoAcercaCabecera3">Recursos producidos por los socios que permitirán: </string>
+    <string name="textoAcercaParrafo3">
+        Desarrollo de un sitio web, así como de una aplicación de Android, basada en las buenas prácticas acordadas por los socios que permite Registro de insiticiones e investigación de socios de diferentes proyectos,  Investigación de socios europeos
+        , Comunicación entre socios para establecer / construir el proyecto.
+       </string>
+
+
+    <string name="visitlink">Visita su web </string>
+
+    <string name="textoSociosParrafo1">IES Cristobal de Monroy. Coordinador.  Alcalá de Guadaíra (Sevilla) España . Instituto de Enseñanza (ESO, Bachillerato y Ciclos Formativos de Informática Transporrte y Comercio) Posee la carta ECHE y actualmente esta participando en proyectos Erasmus + KA1 Y KA2.
+    </string>
+
+    <string name="textoSociosParrafo2">FICA. Socio. La Federación de Industriales y Comerciantes de Alcalá de Guadaira  (Sevilla) España  es una organización empresarial intersectorial de ámbito local.
+    </string>
+
+    <string name="textoSociosParrafo3"> ITIS Carlo Grassi.  Socio. Turin. Italia.  Escuela secundaria  del norte de Italia, con un fuerte enfoque en ITC, Electrotecnia y Automatización, Ingeniería Aeronáutica, Transportes y Logística.
+    </string>
+    <string name="textoSociosParrafo4">Instituto Politécnico de Santarém. Socio.  Santarem. Portugal. Es una institución de educación superior pública y consta de las siguientes Escuelas: Agricultura, Deportes, Educación, Gestión y Tecnología y Salud.
+    </string>
+
+    <!--- Mensajes Manual -->
+    <string name="textotitulomanual1">
+        ¿Por qué usar esta página?
+    </string>
+    <string name="textomanual1">
+        Está página pretende ser una herramienta para ayudar a la búsqueda de socios de futuros proyectos Europeos.
+    </string>
+    <string name="textotitulomanual2">
+        ¿Cómo funciona?
+    </string>
+    <string name="textomanual2">
+        Para poder usar está página debe de registrarse primero.
+        </string>
+    <string name="textomanual21">
+1º REGISTRO.  Durante el Registro se le solicitaran los siguientes datos:
+    </string>
+    <string name="textomanual22">
+ Datos del Centro de Trabajo.
+En este apartado se le solicitaran los siguientes datos de su centro de trabajo.
+ </string>
+    <string name="textomanual23">
+Nombre del centro:
+Calle:
+Ciudad:
+Pais:
+email:
+Tipo de Centro: Aquí debe seleccionar si se trata de un centro escolar (Primaria, Secundaria,…) una empresa (Company) una institución pública (Public Institution) o bien otro tipo de organismo (ONG, …)
+Introduzca su PIC. El PIC es un dato muy importante que deberá tener su institución para poder realizar cualquier proyecto Europeo. Puede consultar su PIC  aquí Puede obtener el PIC para su institución aquí. En caso de no tener PIC por favor introduzca 000.
+
+ </string>
+    <string name="textomanual24">
+Datos personales. En este apartado se le solicitaran los siguientes datos personales.Nombre: Apellidos: email: Password: Repita el password:
+ </string>
+    <string name="textomanual25">
+        Seleccione área: En este apartado debe seleccionar su área de trabajo o especialización personal.
+Tipo de proyecto Usted debe indicar en que tipo de proyecto desea participar, o si ya tiene uno indicar el tipo. Pudiendo ser KA1 (101, 102,…) KA2 (201,202,….)
+nombre del proyecto:(Opcional)
+Una vez aceptadas las condiciones y el captcha de la página usted y su institución recibirán un email que deben de confirmar. Si no recibe el email, por favor revise la carpeta de Spam. No podrá realizar el login hasta que no haya confirmado ambos emails (su institución y usted).
+    </string>
+    <string name="textotitulomanual3">
+        2º BÚSQUEDA DE SOCIOS.
+    </string>
+    <string name="textomanual3">
+        Para poder buscar los socios debe completar todos los pasos del apartado anterior. Realice el login con su email personal como nombre de usuario y el password que introdujo en el registro. Si no recuerda el password puede solicitar uno nuevo.
+        Cuando ha realizado el login puede buscar los socios que se encuentran registrados en el sistema. Para ello dispone de un filtro que le preguntará:
+    </string>
+    <string name="textomanual4">   Pais:  Seleccione área:  Tipo de Centro:  Seleccione tipo de proyecto: El sistema mostrará todos los posibles socios que cumplan con los filtros que se han solicitado. Pulsando sobre el boton
+    </string>
+    <string name="textomanual5">
+        Le permitirá enviar un email a la persona que se ha registrado,es aconsejable compartir su email. No tendrá acceso directamente al email del socio con el que desea contactar, solo si comparte usted el suyo podrían ponerse en contacto de una forma más rápida. El sistema no almacena ningún email de los enviados solo los datos para poner en contacto a los socios. Solo se compartirá su email personal si usted lo desea.
+    </string>
+
+    <string name="textomanual6">
+El equipo de yfys le desea suerte    </string>
+
+
+
+
+
+
+
+</resources>
